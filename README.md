@@ -25,3 +25,5 @@ cd rockPaper
 
 ![interface](https://user-images.githubusercontent.com/64994381/166100928-fda5ccf6-2a43-4729-8047-2009d37e270b.png)
 
+Development - Eron Mahmuti 
+https://eronmahmuti.netlify.app/
